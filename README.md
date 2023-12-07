@@ -1,6 +1,6 @@
 # Balancer Frontend App (v2)
 
-Official frontend app for the Balancer protocol (v2)
+Officia01d0fd10f8da4338f009e55526954a9d0a13f38al frontend app for the Balancer protocol (v2)
 
 ![Alt](https://repobeats.axiom.co/api/embed/9a2f4fbb502d735b6b8ec648723e686ae82f1fad.svg 'Repobeats analytics image')
 
